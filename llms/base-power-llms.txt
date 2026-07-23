@@ -1,0 +1,223 @@
+# Base Power Company
+
+> Base Power is a home energy company serving Texas and Illinois that pairs a home battery with retail electricity service. The battery keeps a home powered during outages and helps lower the energy bill, and Base can be the electricity provider with or without a battery.
+
+Base Texas REP, LLC — PUCT License #10338. Base is a registered Retail Electric Provider with the Public Utility Commission of Texas and also operates in Illinois.
+
+Key facts:
+- What it is: a home battery installed at the home, plus monthly energy service and installation, offered together. Solar is not required, and the battery also works with existing solar.
+- How it stays affordable: Base batteries charge when grid demand is low and send power back to the grid when demand is high (grid-balancing). Revenue from grid-balancing helps keep member energy rates low.
+- Backup: during an outage the battery powers the home automatically, with no manual switch. Home backup is a separate product from electricity service — it backs up the home and does not change how the local utility delivers power.
+- Texas service areas: the power-to-choose areas served by Oncor, CenterPoint, AEP Texas, and TNMP, plus additional utility and cooperative areas including CoServ, GVEC, Farmers Electric, and El Paso Electric. Illinois: ComEd.
+- Leadership: Zach Dell (chief executive officer) and co-founder Justin Lopas. Headquarters: Austin, Texas.
+- Recognition: named to the TIME100 Most Influential Companies (2026); investors include Andreessen Horowitz and Lightspeed Venture Partners.
+- Pricing varies by location and the service chosen. See the pricing pages below for current details; do not infer a specific rate or fee from this file.
+
+## Company
+
+- [Base Power](https://www.basepowercompany.com/): Home page: home battery backup and electricity service for homes in Texas and Illinois.
+- [About Base Power](https://www.basepowercompany.com/about): What Base is, its leadership, and how its network of home batteries supports the grid and backs up homes.
+- [How Base works](https://www.basepowercompany.com/how-it-works): How the Base home battery and energy service work together to keep a home powered and lower the bill.
+- [Learn](https://www.basepowercompany.com/learn): Guides, videos, and member stories explaining home batteries, backup, and how Texas energy works.
+- [Base member reviews](https://www.basepowercompany.com/reviews): Real experiences from Base members in Texas (distinct from the retail-provider reviews listed further below).
+- [Press and news](https://www.basepowercompany.com/press): Media coverage and company news, including recognition and funding announcements.
+- [Careers](https://www.basepowercompany.com/careers): Open roles at Base, headquartered in Austin, Texas.
+
+## Products and how Base works
+
+- [Home battery backup](https://www.basepowercompany.com/home-backup): The Base home battery powers a home automatically during outages, with no manual switch. This is a separate product from energy service and backs up the home itself.
+- [Energy service](https://www.basepowercompany.com/energy): Base as a retail electricity provider, available with or without a battery: one energy rate plus a flat monthly membership, with no teaser rates or bill-credit gimmicks.
+- [Base with solar](https://www.basepowercompany.com/with-solar): How the Base battery works with existing or new rooftop solar, including solar buyback.
+- [Base and generators](https://www.basepowercompany.com/with-generator): How home battery backup compares with a fuel generator for keeping a home powered.
+- [Battery specs](https://www.basepowercompany.com/specs): Technical specifications for the Base ground-mounted and wall-mounted home batteries.
+- [Specs comparison](https://www.basepowercompany.com/specs-comparison): Side-by-side comparison of Base battery configurations and capacities.
+- [Base for business](https://www.basepowercompany.com/business): Energy and backup for commercial properties and small businesses.
+- [Backup for critical and chronic care](https://www.basepowercompany.com/critical-chronic-care): How Base home backup helps homes that depend on powered medical equipment during outages.
+- [Base for homebuilders](https://www.basepowercompany.com/homebuilders): Base battery and energy service for new-construction homes and homebuilder partnerships.
+
+## Pricing by utility area
+
+Pricing varies by location and the service chosen. These pages show current details for each Texas delivery area.
+
+- [Pricing](https://www.basepowercompany.com/pricing): Look up current Base pricing for an address; pricing varies by location and service.
+- [Pricing — Oncor area](https://www.basepowercompany.com/pricing/oncor): Base pricing for homes in the Oncor delivery area (Dallas–Fort Worth and North Texas).
+- [Pricing — CenterPoint area](https://www.basepowercompany.com/pricing/centerpoint): Base pricing for homes in the CenterPoint delivery area (greater Houston).
+- [Pricing — AEP Texas Central area](https://www.basepowercompany.com/pricing/aep-central): Base pricing for homes in the AEP Texas Central delivery area (Corpus Christi and South Texas).
+- [Pricing — AEP Texas North area](https://www.basepowercompany.com/pricing/aep-north): Base pricing for homes in the AEP Texas North delivery area (Abilene and West-Central Texas).
+- [Pricing — TNMP area](https://www.basepowercompany.com/pricing/tnmp): Base pricing for homes in the Texas-New Mexico Power (TNMP) delivery area.
+- [Pricing — CoServ area](https://www.basepowercompany.com/pricing/coserv): Base pricing for homes in the CoServ cooperative area (North Texas).
+- [Pricing — GVEC area](https://www.basepowercompany.com/pricing/gvec): Base pricing for homes in the Guadalupe Valley Electric Cooperative (GVEC) area.
+- [Pricing — El Paso Electric area](https://www.basepowercompany.com/pricing/epelectric): Base pricing for homes in the El Paso Electric delivery area.
+- [Pricing — Farmers Electric area](https://www.basepowercompany.com/pricing/farmers): Base pricing for homes in the Farmers Electric Cooperative area.
+
+## Tools
+
+- [Backup duration calculator](https://www.basepowercompany.com/duration-calculator): Estimate how long a Base battery can power a home during an outage based on what is running.
+- [Bill comparison](https://www.basepowercompany.com/compare): Compare current electricity costs with Base.
+
+## Texas electricity rates by city
+
+City-by-city guides to how electricity rates and utility delivery charges work, alongside Base's transparent flat-rate plan.
+
+- [Texas electricity rates by city (2026)](https://www.basepowercompany.com/electricity-rates): Compare electricity rates across 15 Texas cities. See how your local utility (Oncor, CenterPoint, AEP Texas, TNMP) and Base's transparent flat-rate plan work.
+- [Electricity rates in Baytown, TX (2026)](https://www.basepowercompany.com/electricity-rates/baytown-tx): Electricity rates in Baytown, TX in 2026: CenterPoint delivers the power on Galveston Bay, the market is deregulated, and coastal storms make home backup matter.
+- [Electricity rates in Carrollton, TX (2026)](https://www.basepowercompany.com/electricity-rates/carrollton-tx): Electricity rates in Carrollton, TX in 2026: Oncor delivers power across three counties, the market is deregulated, and Base keeps pricing simple and transparent.
+- [Electricity rates in Cedar Park, TX (2026)](https://www.basepowercompany.com/electricity-rates/cedar-park-tx): Good news for the Austin area: Cedar Park is on Oncor and IS deregulated — unlike Austin itself. You can choose your provider. See Base's transparent plan.
+- [Electricity rates in Conroe, TX (2026)](https://www.basepowercompany.com/electricity-rates/conroe-tx): Electricity rates in Conroe, TX in 2026: CenterPoint delivers power on the same grid hit by Hurricane Beryl, the market is deregulated, and Base keeps pricing simple.
+- [Electricity rates in Corpus Christi, TX (2026)](https://www.basepowercompany.com/electricity-rates/corpus-christi-tx): Electricity rates in Corpus Christi in 2026: AEP Texas delivers the power, the city is deregulated, and Gulf hurricanes make backup matter. See Base's plan.
+- [Electricity rates in Dallas, TX (2026)](https://www.basepowercompany.com/electricity-rates/dallas-tx): Electricity rates in Dallas in 2026: how Oncor delivery charges and deregulation work, the average Texas bill, and Base's transparent 8¢/kWh + flat-fee plan.
+- [Electricity rates in Fort Worth, TX (2026)](https://www.basepowercompany.com/electricity-rates/fort-worth-tx): Electricity rates in Fort Worth in 2026: how Oncor delivery charges work, what the average Texas bill looks like, and Base's transparent 8¢/kWh + flat-fee plan.
+- [Electricity rates in Frisco, TX (2026)](https://www.basepowercompany.com/electricity-rates/frisco-tx): Electricity rates in Frisco, TX in 2026: Oncor delivers the power, the market is deregulated, and Frisco's brand-new homes are a great fit for solar and battery.
+- [Electricity rates in Garland, TX (2026)](https://www.basepowercompany.com/electricity-rates/garland-tx): Garland is unusual: most of it is on municipal Garland Power & Light (no provider choice) — only Oncor pockets can shop. Here's how to tell which you're in.
+- [Electricity rates in Houston, TX (2026)](https://www.basepowercompany.com/electricity-rates/houston-tx): How electricity rates work in Houston in 2026: CenterPoint delivery charges, the average bill, why summer is so expensive, and Base's transparent 8¢/kWh plan.
+- [Electricity rates in Irving, TX (2026)](https://www.basepowercompany.com/electricity-rates/irving-tx): Electricity rates in Irving, TX in 2026: Oncor delivers the power, the market is deregulated, and Base offers a flat 8¢/kWh energy rate plus a simple monthly fee.
+- [Electricity rates in Lewisville, TX (2026)](https://www.basepowercompany.com/electricity-rates/lewisville-tx): Lewisville is a rare Oncor/TNMP patchwork — your delivery utility depends on your address. Here's how to tell, plus Base's transparent 8¢/kWh + flat-fee plan.
+- [Electricity rates in McKinney, TX (2026)](https://www.basepowercompany.com/electricity-rates/mckinney-tx): Electricity rates in McKinney, TX in 2026: Oncor delivers the power, the market is deregulated, and one of Texas's fastest-growing cities is full of new homes.
+- [Electricity rates in Plano, TX (2026)](https://www.basepowercompany.com/electricity-rates/plano-tx): Electricity rates in Plano, TX in 2026: Oncor delivers the power, the market is deregulated, and Base offers a flat 8¢/kWh energy rate with a simple monthly fee.
+- [Electricity rates in Round Rock, TX (2026)](https://www.basepowercompany.com/electricity-rates/round-rock-tx): Good news for the Austin area: Round Rock is on Oncor and IS deregulated — unlike Austin itself. You can choose your provider. See Base's transparent plan.
+
+## Texas electricity providers by city
+
+How to choose a retail electricity provider in each Texas city, and how Base compares.
+
+- [Texas electricity providers by city (2026)](https://www.basepowercompany.com/electricity): How to choose an electricity provider in Texas: every plan rides the same utility wires, so the real difference is pricing. Compare by city, plus honest reviews.
+- [Electricity providers in Corpus Christi, TX (2026)](https://www.basepowercompany.com/electricity/corpus-christi-tx): Choosing an electricity provider in Corpus Christi: every plan rides AEP Texas's wires, so the difference is pricing — and on the coast, backup. Plus Base.
+- [Electricity providers in Dallas, TX (2026)](https://www.basepowercompany.com/electricity/dallas-tx): Choosing an electricity provider in Dallas: every plan rides Oncor's wires, so the real difference is how each one prices energy. A clear guide, plus Base.
+- [Electricity providers in Fort Worth, TX (2026)](https://www.basepowercompany.com/electricity/fort-worth-tx): Choosing an electricity provider in Fort Worth: every plan rides Oncor's wires, so the real difference is pricing. A plain-English guide, plus Base.
+- [Electricity providers in Frisco, TX (2026)](https://www.basepowercompany.com/electricity/frisco-tx): Choosing an electricity provider in Frisco: every plan rides Oncor's wires, so the difference is pricing — and new homes shop a crowded market. Plus Base.
+- [Electricity providers in Houston, TX (2026)](https://www.basepowercompany.com/electricity/houston-tx): How to choose an electricity provider in Houston: every plan rides CenterPoint's wires, so what really differs is pricing. A plain-English guide, plus Base.
+- [Electricity providers in Irving, TX (2026)](https://www.basepowercompany.com/electricity/irving-tx): Choosing an electricity provider in Irving: every plan rides Oncor's wires, so the real difference is how each one prices energy. A clear guide, plus Base.
+- [Electricity providers in Plano, TX (2026)](https://www.basepowercompany.com/electricity/plano-tx): Choosing an electricity provider in Plano: every plan rides Oncor's wires, so the difference is pricing — and for big homes, it matters more. Plus Base.
+- [Electricity providers in Sugar Land, TX (2026)](https://www.basepowercompany.com/electricity/sugar-land-tx): Choosing an electricity provider in Sugar Land: every plan rides CenterPoint's wires, so the real difference is how each one prices energy. A clear guide, plus Base.
+- [Electricity providers in Victoria, TX (2026)](https://www.basepowercompany.com/electricity/victoria-tx): Choosing an electricity provider in Victoria: every plan rides AEP Texas's wires, so the real difference is pricing — and after Harvey, backup. A clear guide, plus Base.
+- [Electricity providers in Waco, TX (2026)](https://www.basepowercompany.com/electricity/waco-tx): Choosing an electricity provider in Waco: most homes are on Oncor and can shop, but some rural McLennan County addresses are on a co-op. Here's how it works, plus Base.
+
+## Retail electricity provider reviews
+
+Overviews of major Texas retail electricity providers and how their plans compare to Base.
+
+- [Cirro Energy review (2026): plans, rates & how it compares](https://www.basepowercompany.com/reviews/cirro-energy): An honest Cirro Energy review: who owns it, its no-frills plans, real rates and fees, third-party review scores, common complaints, and how Base compares.
+- [Constellation Energy review (2026): plans & how it compares](https://www.basepowercompany.com/reviews/constellation-energy): An honest Constellation Energy review: who owns it, its EV and green plans, real rates and fees, third-party review scores, complaints, and how Base compares.
+- [Gexa Energy review (2026): plans, rates & how it compares](https://www.basepowercompany.com/reviews/gexa-energy): An honest Gexa Energy review: who owns it, its 100% renewable plans, real rates and fees, third-party review scores, common complaints, and how Base compares.
+- [Green Mountain Energy review (2026): plans & how it compares](https://www.basepowercompany.com/reviews/green-mountain-energy): An honest Green Mountain Energy review: who owns it, its 100% renewable plans, real rates and fees, review scores, common complaints, and how Base compares.
+- [Reliant Energy review (2026): plans, rates & how it compares](https://www.basepowercompany.com/reviews/reliant-energy): An honest Reliant Energy review: who owns it, its free-nights and solar plans, real rates and fees, third-party review scores, common complaints, and how Base compares.
+- [Rhythm Energy review (2026): plans, rates & how it compares](https://www.basepowercompany.com/reviews/rhythm-energy): An honest Rhythm Energy review: who owns it, its 100% renewable plans, real rates and fees, third-party review scores, common complaints, and how Base compares.
+- [TXU Energy review (2026): plans, rates & how it compares](https://www.basepowercompany.com/reviews/txu-energy): An honest TXU Energy review: who owns it, its solar and free-nights plans, real rates and fees, third-party review scores, common complaints, and how Base compares.
+
+## Texas utilities and delivery areas
+
+How the regulated utilities (TDUs) that own the poles, wires, and meter deliver power, by service area. Their delivery charges are the same no matter which retail provider you choose.
+
+- [AEP Texas: service area, delivery rates & how it works](https://www.basepowercompany.com/utilities/aep-texas): AEP Texas delivers power across South and West Texas (Corpus Christi, the Valley, Abilene). See its 2026 delivery charges, rate zones, outages, and how it works.
+- [CenterPoint Energy: Houston service area & rates (2026)](https://www.basepowercompany.com/utilities/centerpoint-energy): CenterPoint Energy delivers electricity across Greater Houston. See its 2026 residential delivery charges, service area, outage map, ESID format, and how the TDU works.
+- [Oncor service area, delivery rates & how it works](https://www.basepowercompany.com/utilities/oncor): Oncor delivers power across Dallas–Fort Worth and much of Texas. See Oncor's 2026 residential delivery charges, service area, outage info, and how the TDU works.
+- [TNMP: service area, delivery rates & how it works (2026)](https://www.basepowercompany.com/utilities/tnmp): Texas-New Mexico Power (TNMP) delivers power across four Texas regions. See TNMP's 2026 residential delivery charges, service area, outages, and how the TDU works.
+
+## More Texas electricity guides
+
+Guides to common Texas electricity situations.
+
+- [Save money. Stay powered.](https://www.basepowercompany.com/): Base brings affordable, reliable energy and whole-home backup to homes across Texas — fixed low rates and battery backup that kicks in automatically.
+- [About Base Power Company | Home Battery & Energy Provider](https://www.basepowercompany.com/about): Base is on a mission to build a reliable, affordable home energy service powered by distributed batteries — the modern power company built for the electric era.
+- [Base App Feedback](https://www.basepowercompany.com/app-feedback): Share your feedback about the Base app and help us make it better.
+- [Austin Energy, affordable home backup is finally here](https://www.basepowercompany.com/austinenergy): Peace of mind for any outage, now offering Austin Energy customers whole-home backup for a fraction of the cost. Get started today.
+- [Save Your Parents](https://www.basepowercompany.com/base-scout): Refer the people you love to Base Power and help them get reliable, affordable home backup power.
+- [Battery agreement](https://www.basepowercompany.com/battery-agreement): Base Power's direct deregulated battery agreement: the terms governing your home battery system, its installation, and ongoing service.
+- [Lower energy bills for Texas businesses](https://www.basepowercompany.com/business): Base Energy for Business gives Texas commercial and small business accounts a below-market electricity rate — no teaser pricing, no hidden fees. Get a custom quote.
+- [Build the future of American power | Base Power Careers](https://www.basepowercompany.com/careers): Join Base Power and help power America. We're looking for world-class engineers, operators, electricians, and creatives to help fix the grid.
+- [CenterPoint and Base Power | Base Power Company](https://www.basepowercompany.com/centerpoint): With CenterPoint, Base provides affordable energy and backup power in the Houston area—no solar required and switching costs covered. Whole-home backup that pays you.
+- [Commercial Lead Form](https://www.basepowercompany.com/commercial-form): Request a custom commercial energy quote from Base Power for your Texas business.
+- [Compare Your Texas Electricity Bill](https://www.basepowercompany.com/compare): 7 in 10 Texas households are overpaying for electricity. Upload your bill and see exactly how much you could save with Base Power.
+- [Talk to an Energy Advisor](https://www.basepowercompany.com/consultation): Book a free 15-minute consultation with a Base Energy Advisor to find the right home power solution.
+- [Content Partnerships](https://www.basepowercompany.com/content-partnerships): Partner with Base Power on content — tell us about your audience and what you'd like to create together.
+- [Core Form](https://www.basepowercompany.com/core-form): Get started with Base Power — share a few details about your home and our team will help set up your energy service and home battery backup.
+- [CoServ home backup](https://www.basepowercompany.com/coserv): Affordable whole-home backup for CoServ members — the first 1,000 installed members get 50% off installation and no monthly fee, exclusively in Texas.
+- [Critical & chronic care resources](https://www.basepowercompany.com/critical-chronic-care): How Texas households that rely on electric-powered medical equipment can apply for Critical Care or Chronic Condition protections, plus TDU contacts.
+- [Download the Base Power app](https://www.basepowercompany.com/download): Download the Base Power app for iOS or Android to manage your home energy, track usage, and stay prepared for outages, or sign in on the web.
+- [Calculate Backup Duration](https://www.basepowercompany.com/duration-calculator): See how long your Base battery can power your home during an outage. A free tool with variables for battery charge, energy use, and system configuration.
+- [Electricity Facts Labels (EFLs) & documents](https://www.basepowercompany.com/efl): Base Power Electricity Facts Labels (EFLs) and service documents by Texas utility, in English and Spanish, plus Your Rights as a Customer and more.
+- [Low-cost, fixed-rate energy](https://www.basepowercompany.com/energy): The energy provider built to lower Texans' bills. One fixed, below-market rate — no teaser pricing, no hidden fees, and up to $150 in termination fees covered.
+- [Low-cost, fixed-rate energy](https://www.basepowercompany.com/energy-electricity-plans): The energy provider built to lower Texans' bills. One fixed, below-market rate — no teaser pricing, no hidden fees, and up to $150 in termination fees covered.
+- [Pay less than Reliant](https://www.basepowercompany.com/energy-only-reliant): Pay less than Reliant on a fixed, below-market rate for 36 months — no teaser pricing, no hidden fees, and up to $150 in Reliant termination fees covered.
+- [Pay less than TXU](https://www.basepowercompany.com/energy-only-txu): Pay less than TXU on a fixed, below-market rate for 36 months — no teaser pricing, no hidden fees, and up to $150 in TXU termination fees covered.
+- [Energy policy](https://www.basepowercompany.com/energy-policy): Base Power's submitted energy-policy materials: white papers, presentations, and regulatory filings on critical business and industry matters.
+- [El Paso Electric home backup](https://www.basepowercompany.com/epelectric): Whole-home backup that pays you — El Paso Electric's limited-time battery pilot offers up to $500 to the first 500 installed homeowners in Texas.
+- [Farmers home backup](https://www.basepowercompany.com/farmers): Affordable whole-home backup for Farmers Electric Cooperative members — 50% off installation, exclusively in Texas.
+- [Share Feedback About Base](https://www.basepowercompany.com/feedback): Let us know how your battery 'outage simulation' test went.
+- [Join the Base Field Team | Base Power Company Careers](https://www.basepowercompany.com/field): Join the Base Power field team and install the home batteries redefining American power. We're hiring licensed electricians, Journeymen, and Apprentices.
+- [Generator Port | Base Power Company](https://www.basepowercompany.com/generator-port): How to connect a portable generator to your Base battery. Generator functionality will be accessible in late summer.
+- [Get Started With Base Power | Reliable Energy + Backup](https://www.basepowercompany.com/get-started): Lock in low energy rates and home backup power in minutes. No hidden fees, just reliable savings.
+- [GVEC home backup](https://www.basepowercompany.com/gvec): Affordable whole-home backup for GVEC members — +50% off installation and no monthly fee, exclusively for Guadalupe Valley Electric Cooperative members in Texas.
+- [Home Battery Backup in Texas](https://www.basepowercompany.com/home-backup): Never lose power again. Base's whole-home battery backup protects your Texas home through every outage. Save on your power bills with below-market-average energy rates.
+- [Homebuilder partnerships](https://www.basepowercompany.com/homebuilders): Base integrates with new construction, giving residents built-in backup power while strengthening the grid. Partner with us to build a competitive advantage.
+- [How it works](https://www.basepowercompany.com/how-it-works): See how Base works: a low fixed rate plus a home battery that delivers seamless backup during outages and helps stabilize the grid. Here's how it fits together.
+- [Base Power launches in Illinois | Press Release](https://www.basepowercompany.com/illinois-press): Base Power launches across Chicagoland, cutting ComEd customers' supply bills at least 25% below the default rate while adding whole-home backup power.
+- [Involuntary Load Shedding Notice | Base Power Company](https://www.basepowercompany.com/involuntary-load-shedding-notice): This page explains what involuntary load shedding is, what to expect if it occurs, and how each TDU carries it out.
+- [Get started with Base Power](https://www.basepowercompany.com/join-now): Sign up for Base Power — reliable home energy with battery backup.
+- [Get started with Base Power](https://www.basepowercompany.com/join-now-2): Sign up for Base Power — reliable home energy with battery backup.
+- [Reserve your spot with Base Power](https://www.basepowercompany.com/join-soon): Reserve your spot with Base Power and we'll let you know the moment service reaches you.
+- [Join the Base waitlist](https://www.basepowercompany.com/join-waitlist): Join the Base Power waitlist to be first in line for reliable home backup power.
+- [Month-to-month electricity in Texas: how no-contract plans work](https://www.basepowercompany.com/month-to-month-electricity-texas): How month-to-month, no-contract electricity works in Texas: no termination fee, variable rates, the holdover-rate trap — and how Base's fixed plan compares.
+- [Rate your Base experience](https://www.basepowercompany.com/nps): Tell us how likely you are to recommend Base Power — your feedback shapes what we build next.
+- [Oncor and Base Power | Base Power Company](https://www.basepowercompany.com/oncor): With Oncor, Base provides affordable energy and backup power—no solar required and switching costs covered. Whole-home backup that pays you.
+- [Open roles | Join Base Power Company](https://www.basepowercompany.com/open-roles): Explore open roles at Base Power Company. We're hiring engineers, operators, electricians, and creatives to build the home battery network fixing the grid.
+- [Base Partnerships Interest Form](https://www.basepowercompany.com/partnerships): Share your organization's details and the Base partnerships team will be in touch.
+- [Find Base plans by area](https://www.basepowercompany.com/pricing): See which Base plans are available where you live. Search by your utility or city to find energy and backup plans across Texas.
+- [Privacy policy](https://www.basepowercompany.com/privacy-policy): How Base Power collects, uses, and discloses your personal information across our website and services, and your privacy rights and choices.
+- [Promotional terms & conditions](https://www.basepowercompany.com/promo-terms): The terms governing Base Power promotions, bill credits, and gift cards: eligibility, how rewards are issued, and the specific terms for each active program.
+- [Refer a Neighbor](https://www.basepowercompany.com/refer): Refer a neighbor to Base Power and help more Texans get reliable home backup power.
+- [Report a power outage](https://www.basepowercompany.com/report-a-power-outage): Report or track a power outage with your Texas transmission and distribution utility (TDU), plus outage alerts and load-shedding resources.
+- [Base Power Reviews | Real Customer Experiences in Texas](https://www.basepowercompany.com/reviews): See what Texas homeowners are saying about Base's affordable battery backup solution. Read verified customer reviews about reliability, service, and savings.
+- [Same-day electricity in Texas: how to get power on today](https://www.basepowercompany.com/same-day-electricity-texas): How to get electricity turned on the same day in Texas: smart meters, move-in vs. switch, cutoff times, deposits and no-credit-check options — and where Base fits.
+- [Schedule A Call](https://www.basepowercompany.com/schedule-call): Schedule a consultation with an energy expert to learn more about Base Power.
+- [Provide Security Feedback](https://www.basepowercompany.com/security-feedback): Report a security concern or share feedback with the Base Power security team.
+- [SMS communications terms of service](https://www.basepowercompany.com/sms-terms): The terms for Base Power's SMS and MMS messages: how to opt in and out, message frequency, data rates, and how we handle your mobile number.
+- [Base Power Battery Specifications | Compare Models](https://www.basepowercompany.com/specs): Browse full specs for every Base home battery system — the single (25 kWh) and double (50 kWh) ground-mounted systems and Base Battery. Choose your system to learn more.
+- [Base Battery System Specifications | Home Battery Specs](https://www.basepowercompany.com/specs/core): Full technical specs for the Base Battery — total energy, backup duration, dimensions, operating temperature, noise, voltage, and safety certifications.
+- [Double Ground Mounted System Specs](https://www.basepowercompany.com/specs/double-ground-mounted): Full technical specs for the double ground-mounted Base home battery (50 kWh) — backup duration, dimensions, operating temperature, noise, and safety certifications.
+- [Single Ground Mounted System Specs](https://www.basepowercompany.com/specs/single-ground-mounted): Full technical specs for the single ground-mounted Base home battery (25 kWh) — backup duration, dimensions, operating temperature, noise, and safety certifications.
+- [Purchase order terms & conditions](https://www.basepowercompany.com/t-and-c): The purchase order terms and conditions that govern equipment and services you order from Base Power.
+- [Terms of Service](https://www.basepowercompany.com/terms-of-service): Base Power's preorder terms and conditions: preorder acceptance, payments, cancellations, arbitration, and the other legal terms for your order.
+- [Base battery user manual](https://www.basepowercompany.com/usermanual): The Growatt APX HV home battery system user manual for Base Power customers: installation, operation, and safety information for your battery.
+- [Adding a battery](https://www.basepowercompany.com/video/adding-a-battery): If you start with one Base battery, can you add a second one later? Watch how adding a battery works once you're a Base member.
+- [Base as an energy provider](https://www.basepowercompany.com/video/base-as-an-energy-provider): Does Base become your energy provider when you get the battery? Watch how Base's retail energy plan works with your home battery.
+- [Base Power overview](https://www.basepowercompany.com/video/base-power-overview): What is Base Power, and how does it work? A quick video overview of Base's home battery, backup power, and energy service.
+- [Energy rate overview](https://www.basepowercompany.com/video/energy-rate-overview): How does the Base energy rate work? A short video walkthrough of how Base members pay a low, fixed rate for home energy.
+- [Moving with Base](https://www.basepowercompany.com/video/moving-with-base): What happens if you move after you get Base? Watch how your Base membership and battery are handled when you move homes.
+- [Referral program](https://www.basepowercompany.com/video/referral-program): Does Base have a referral program, and how does it work? Watch how referring friends and neighbors to Base Power works.
+- [Getting set up with Base](https://www.basepowercompany.com/video/setup): What does setup with Base Power look like? Watch what to expect from signup through your battery installation.
+- [With Generator | Base Power Company](https://www.basepowercompany.com/with-generator): The smart way to extend your backup. Plug in your generator once and get smooth, uninterrupted whole-home power for as long as you have fuel.
+- [Solar Battery Backup and Competitive Buyback Rates](https://www.basepowercompany.com/with-solar): Get one of Texas' most affordable solar battery backup systems and earn more from your panels with competitive buyback rates and simple, transparent pricing.
+- [Your Privacy Choices](https://www.basepowercompany.com/your-privacy-choices): Opt out of targeted advertising and the sale or sharing of your personal information on Base Power's website. Base also honors Global Privacy Control browser signals.
+
+## Illinois
+
+Home energy and backup for Illinois homes in the ComEd area.
+
+- [Affordable, reliable home power in Illinois](https://www.basepowercompany.com/illinois): Base brings affordable, reliable power to Illinois — save at least 25% vs. ComEd's Price to Compare with a home backup battery that powers outages.
+
+## Learn and blog
+
+Plain-language articles on Texas and Illinois energy, home batteries, outages, and bills.
+
+- [Blog](https://www.basepowercompany.com/blog): Articles on home batteries, the grid, outages, and how to save on a Texas or Illinois energy bill.
+- [How grid-balancing works](https://www.basepowercompany.com/blog/how-grid-balancing-works): How Base batteries charge when demand is low and send power back to the grid when demand is high.
+- [How Base charges and discharges its batteries](https://www.basepowercompany.com/blog/how-base-charges-and-discharges-its-batteries): A plain-language look at when and why the battery charges and discharges.
+- [How batteries support the grid](https://www.basepowercompany.com/blog/how-batteries-support-the-grid): How a network of distributed home batteries helps balance the power grid.
+- [Power outages 101](https://www.basepowercompany.com/blog/power-outages-101): Why outages happen in Texas and how home backup keeps the lights on.
+- [Texas electricity rates guide](https://www.basepowercompany.com/blog/texas-electricity-rates-guide): How Texas electricity pricing, utility delivery charges, and power-to-choose areas work.
+- [Understanding your energy bill](https://www.basepowercompany.com/blog/4-lines-on-your-energy-bill-you-need-to-know-and-where-you-could-be-overpaying): The key lines on a Texas energy bill and where people commonly overpay.
+- [Home batteries vs generators](https://www.basepowercompany.com/blog/3-reasons-homeowners-choose-base-powers-batteries-over-generators): Why homeowners choose a home battery over a fuel generator for backup.
+- [Illinois: rising ComEd rates](https://www.basepowercompany.com/blog/comed-rates-keep-climbing-heres-how-illinois-homeowners-can-fight-back): How Illinois homeowners can respond to rising ComEd electricity rates.
+
+## Optional
+
+Legal, regulatory, and support pages.
+
+- [Privacy policy](https://www.basepowercompany.com/privacy-policy): How Base collects, uses, and shares data.
+- [Terms of service](https://www.basepowercompany.com/terms-of-service): The terms that govern Base service.
+- [Terms and conditions](https://www.basepowercompany.com/t-and-c): Additional terms and conditions.
+- [SMS terms](https://www.basepowercompany.com/sms-terms): Terms for text-message communication, including how to opt out.
+- [Energy policy](https://www.basepowercompany.com/energy-policy): Base's energy and regulatory policy information.
+- [PUCT contact and complaints](https://www.basepowercompany.com/puc-contact): How to contact the Public Utility Commission of Texas with a question or complaint.
+- [Report a power outage](https://www.basepowercompany.com/report-a-power-outage): How to report a power outage.

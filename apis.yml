@@ -1,9 +1,30 @@
 aid: base-power
 name: Base Power
-description: 'Base Power is a company surfaced as a portfolio company of addition, bond-capital, lightspeed-venture-partners,
-  ribbit-capital, spark-capital and added to the API Evangelist network as a stub for enrichment. Sector:
-  clean-energy. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Base Power (Base Texas REP, LLC, PUCT License #10338) is an Austin, Texas home
+  energy company that pairs an installed home battery (40–80 kWh) with retail electricity
+  service across Texas and Illinois. The battery powers a home automatically during outages
+  with no manual switch and helps lower the energy bill: batteries charge when grid demand
+  is low and send power back to the grid when demand is high (grid-balancing), and that
+  grid revenue helps keep member energy rates low. Base can be the retail electricity provider
+  with or without a battery, works with existing solar, and serves the Oncor, CenterPoint,
+  AEP Texas, TNMP, CoServ, GVEC, Farmers Electric, and El Paso Electric areas in Texas plus
+  ComEd in Illinois. Led by CEO Zach Dell and co-founder Justin Lopas; named to the TIME100
+  Most Influential Companies (2026); backed by Andreessen Horowitz, Lightspeed Venture
+  Partners, Addition, Bond Capital, Ribbit Capital, and Spark Capital. This profile was
+  enriched by the API Evangelist pipeline; Base publishes no public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/base-power/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.basepowercompany.com/_bpc/assets/og-default.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -16,10 +37,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Clean Energy
+- Energy
+- Home Battery
+- Energy Storage
+- Electricity
+- Grid
+- Retail Electric Provider
+- Texas
+- Illinois
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -29,3 +58,28 @@ maintainers:
 common:
 - type: Website
   url: https://www.basepowercompany.com
+- type: About
+  url: https://www.basepowercompany.com/about
+- type: Blog
+  url: https://www.basepowercompany.com/blog
+- type: Support
+  url: https://help.basepowercompany.com/
+- type: Pricing
+  url: https://www.basepowercompany.com/pricing
+- type: SignUp
+  url: https://account.basepowercompany.com/sign-in
+- type: Login
+  url: https://account.basepowercompany.com/sign-in
+- type: TermsOfService
+  url: https://www.basepowercompany.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.basepowercompany.com/privacy-policy
+- type: LLMsTxt
+  url: llms/base-power-llms.txt
+- type: DomainSecurity
+  url: security/base-power-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
